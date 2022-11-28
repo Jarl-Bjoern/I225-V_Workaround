@@ -7,6 +7,7 @@ Please note here that there is a risk that this workaround may not necessarily f
 
 # Overview about Ethernet Cables
 | Category | Max Speed |
+| -------- | --------- |
 | CAT1     |   1 Mbps  |
 | CAT2     |   4 Mbps  |
 | CAT3     |  10 Mbps  |
