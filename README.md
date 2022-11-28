@@ -38,5 +38,3 @@ which is shown in the next step.
 
 # YouTube
 [![Intel I225-V (Workaround) - Windows 10](thumbnail.JPG)](https://www.youtube.com/watch?v=99vEoNPO5zk)
-
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/99vEoNPO5zk" title="Intel I225-V (Workaround) - Windows 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
