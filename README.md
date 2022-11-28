@@ -5,6 +5,20 @@ I found another workaround which can help with the problem that the PC causes bl
 
 Please note here that there is a risk that this workaround may not necessarily fix the problem.
 
+# Overview about Ethernet Cables
+| Category | Max Speed |
+| CAT1     |   1 Mbps  |
+| CAT2     |   4 Mbps  |
+| CAT3     |  10 Mbps  |
+| CAT4     |  16 Mbps  |
+| CAT5     | 100 Mbps  |
+| CAT5e    |   1 Gbps  |
+| CAT6     |  10 Gbps  |
+| CAT6a    |  10 Gbps  |
+| CAT7     |  10 Gbps  |
+
+For more information about cables https://www.firewall.cx/networking-topics/cabling-utp-fibre/112-network-cabling-utp.html
+
 # Workaround
 If you also have the problem with the I225-V network adapter, you should follow these steps, as they helped with my case.
 
