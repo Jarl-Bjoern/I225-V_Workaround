@@ -37,6 +37,6 @@ which is shown in the next step.
 5. now search for "Speed and Duplex" and try to set the speed of "Auto negotiation" to a fixed full duplex value
 
 # YouTube
-[![Intel I225-V (Workaround) - Windows 10]](https://www.youtube.com/watch?v=99vEoNPO5zk)
+[![Intel I225-V (Workaround) - Windows 10](thumbnail.JPG)](https://www.youtube.com/watch?v=99vEoNPO5zk)
 
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/99vEoNPO5zk" title="Intel I225-V (Workaround) - Windows 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
