@@ -1,7 +1,7 @@
 # General Description
 Hello together,
 
-I found another workaround which can help with the problem that the PC causes bluescreens through the network adapter.
+I found another solution which could help with the problem that the PC causes bluescreens through the network adapter.
 
 Please note here that there is a risk that this workaround may not necessarily fix the problem.
 
